@@ -1,6 +1,6 @@
 # Hotel Review Sentiment Analysis
 
-This project is a **Streamlit web application** that performs **sentiment analysis** on customer reviews of hotels in **Greensboro, NC**. Users can select a hotel, give a star rating, enter a review, and get an instant prediction about whether the sentiment is **happy** or **not happy**.
+This project is a **Streamlit web application** that performs **sentiment analysis** on customer reviews of hotels. Users can select a hotel, give a star rating, enter a review, and get an instant prediction about whether the sentiment is **happy** or **not happy**.
 
 ---
 
